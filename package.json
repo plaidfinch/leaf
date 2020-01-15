@@ -1,0 +1,16 @@
+{
+  "name": "epubize",
+  "version": "1.0.0",
+  "description": "Turn a webpage into a nice epub containing only the content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@postlight/mercury-parser": "^2.2.0",
+    "epub-gen": "^0.1.0",
+    "tmp": "^0.1.0"
+  }
+}
